@@ -1,11 +1,12 @@
 {
   "name": "fetch-express",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Backend Assessment for Fetch",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
